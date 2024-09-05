@@ -1,0 +1,39 @@
+{
+  "name": "pow-fenixf",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/lato": "^5.0.18",
+    "@types/papaparse": "^5.3.14",
+    "@types/vimeo": "^2.1.8",
+    "@vimeo/player": "^2.21.0",
+    "chart.js": "^4.4.1",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "framer-motion": "^10.18.0",
+    "moment": "^2.30.1",
+    "next": "14.1.0",
+    "next-auth": "^4.24.5",
+    "papaparse": "^5.4.1",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "vimeo": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
